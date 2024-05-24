@@ -16,27 +16,27 @@
 }
 .weather{
   position: absolute;
-  top: 65vh;
+  top: 57vh;
   left: 35vw;
 }
 
 .clock-container{
   position: absolute;
-  top: 13vh;
+  top: 5vh;
   left: 32.2vw;
-  width: 530px;
+  width: 34.45vw;
 }
 
 .search{
   position: absolute;
-  top: 100px;
-  width: 400px;
-  left:100px;
+  top: 5vh;
+  width: 26vw;
+  left: 6vw;
 }
 
 .no-weather{
   position: absolute;
-  top: 520px;
+  top: 60vh;
   left: 35vw;
   padding: 20px;
   text-align: center;
@@ -62,15 +62,15 @@
 }
 
 .img-container{
-  width: 400px;
+  width: 26vw;
   height: 550px;
   position: relative;
   left: 00px;
   overflow: hidden;
   box-shadow: 10px -2px 20px 2px rgba(86, 92, 87, 0.17);
   position: absolute;
-  top: 24vh;
-  left: 100px;
+  top: 16vh;
+  left: 6vw;
 }
 .img{
   width: 100%;
@@ -81,17 +81,17 @@
 }
 .spotify{
   position: absolute;
-  top: 42vh;
+  top: 34vh;
   left: 35vw;
 }
 .pomodoro-container{
   position: absolute;
-  top: 13vh;
+  top: 5vh;
   left: 68vw;
 }
 
 .todo-container{
   position: absolute;
-  top: 50vh;
+  top: 39vh;
   left: 68vw;
 }

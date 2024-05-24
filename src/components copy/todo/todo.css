@@ -1,9 +1,8 @@
 .todo-container{
-    font-size: 14.5px;
-    height: 328x;
-    width: 400px;
-    margin: 16px auto;
-    height: 360px;
+    font-size: 0.94vw;
+    width: 26vw;
+    margin: 1.04vw auto;
+    height: 53vh;
 
     background-color: rgba(236, 228, 208, 0.929);
     backdrop-filter: blur(10px);
@@ -20,7 +19,7 @@
     box-sizing: border-box;
 }
 main{
-    max-width: 240px;
+    max-width: 15.6vw;
     margin: 20px auto;
 }
 

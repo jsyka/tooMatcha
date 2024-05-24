@@ -13,7 +13,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     flex-direction: column;
-    width: 400px;
+    width: 26vw;
+    height: 15vw;
     }
 
 .pomo-title{
@@ -36,8 +37,8 @@ line-height: 20px;
 }
 .timerbutton{
     background-color: #6c7a5500;
-    width: 100px;
-    height: 50px;
+    width: 6.5vw;
+    height: 3.25vw;
     color: white;
     font-family: "TitleFont";
     border-radius: 10px;
