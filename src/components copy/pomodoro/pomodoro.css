@@ -1,0 +1,50 @@
+.pomodoro-container{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    padding: 10px;
+    border-radius: 20px;
+    /* box-shadow: 10px -2px 20px 2px rgba(44, 95, 162, 0.17); */
+    padding: 30px;
+    /* background-color: rgba(20, 38, 7, 0.463); */
+    background-image:url(../../assets/greenbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    width: 500px;
+    }
+
+.pomo-title{
+color: white;
+font-family: 'TitleFont';
+font-size: 20px;
+line-height: 20px;
+}
+.timer{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 75px;
+    text-align: center;
+    color: white;
+    font-family: 'numbers';
+}
+.button-container{
+    display: flex;
+    gap: 10px;
+    
+}
+.timerbutton{
+    background-color: #6c7a5500;
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-family: "TitleFont";
+    border-radius: 10px;
+    border-color: #fff;
+    position: relative;
+
+}
+.timerbutton:hover{
+    background-color: #afbaa7;
+}

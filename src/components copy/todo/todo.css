@@ -1,0 +1,66 @@
+.todo-container{
+    font-size: 18px;
+    height: 410px;
+    width: 500px;
+    margin: 20px auto;
+
+
+    background-color: rgba(236, 228, 208, 0.929);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 10px -2px 20px 2px rgba(86, 92, 87, 0.17);
+    background-image: url(../../assets/notepad.jpg);
+    padding: 3px;
+    font-family: 'typewriter';
+    overflow-y: auto;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+main{
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+form{
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    
+}
+form input[type="text"] {
+    background: none;
+    border: 0;
+    padding: 0px 8px;
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    font-family: 'typewriter'
+}
+form button{
+    background-color: cadetblue;
+    border: 0;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 25px;
+}
+.task-container{
+    text-align: left;
+    background-color:rgba(175, 200, 180, 0.356);
+    margin-top: 5px;
+    border-radius: 10px;
+    overflow-y: auto; 
+}
+div.task{
+    display: flex;
+    padding: 5px 9px;
+}
+div.task svg{
+    height: 25px;
+    margin-right: 4px;
+
+}
