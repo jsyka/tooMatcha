@@ -3,15 +3,15 @@
     border-radius: 6px;
     /* box-shadow: 10px -2px 20px 2px rgba(44, 95, 162, 0.17); */
     color: #24440d;
-    margin: 20px auto 0 auto;
-    padding: 40px 40px 40px 40px;
+    margin: 16px auto 0 auto;
+    padding: 32px;
     /* background-color: rgba(10, 67, 37, 0.367); */
 
     /* background-image: url(../../assets/subway.png); */
     /* background-color: #f9fff24e; */
     background-color: rgba(213, 221, 206, 0.436);
-    height: 280px;
-    width: 579px;
+    height: 220px;
+    width: 464px;
     border-radius: 20px;
     box-shadow: 10px -2px 20px 2px rgba(86, 92, 87, 0.17);
     font-family: Arial, Helvetica, sans-serif;
@@ -28,38 +28,38 @@
   
   .city {
     font-weight: 600;
-    font-size: 35px;
+    font-size: 28px;
     line-height: 1;
     margin: 0;
     letter-spacing: 1px;
-    padding: 10px;
+    padding: 8px;
     border: 2px solid;
     border-radius: 10px;
   }
   
   .weather-description {
-    font-weight: 400;
-    font-size: 25px;
+    font-weight: 320;
+    font-size: 20px;
     line-height: 1;
     margin: 0;
   }
   
   .weather-icon {
-    width: 100px;
+    width: 80px;
   }
   
   .temperature {
     font-weight: 600;
-    font-size: 75px;
+    font-size: 60px;
     width: auto;
     letter-spacing: -5px;
-    margin: 10px 0;
+    margin: 8px 0;
     font-family: 'numbers';
   }
   
   .details {
     width: 100%;
-    padding-left: 60px;
+    padding-left: 48px;
   }
   
   .parameter-row {
@@ -70,14 +70,14 @@
   .parameter-label {
     text-align: left;
     font-weight: 400;
-    font-size: 15px;
-    margin-left: 130px;
+    font-size: 12px;
+    margin-left: 104px;
   }
   
   .parameter-value {
     text-align: right;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 100;
   }
   

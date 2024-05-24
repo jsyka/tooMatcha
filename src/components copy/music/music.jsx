@@ -7,8 +7,8 @@ const Music = () => {
       <iframe
         customStyle="border-radius:12px"
         src="https://open.spotify.com/embed/playlist/6qa2IjTQjUUvOeiOmyvgJ6?utm_source=generator&theme=0"
-        width="579px"
-        height='156px'
+        width="463px"
+        height='155px'
         style={{
     
           borderRadius: "20px",
